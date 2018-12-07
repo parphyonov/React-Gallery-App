@@ -1,3 +1,6 @@
+# React-Gallery-App
+A a single page web app to host a photo gallery with three default topic pages and a search page. Project VII at my full-stack JS Techdegree at Treehouse's
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
